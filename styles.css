@@ -548,7 +548,7 @@ a[data-fancybox] img {
 }
 
 .dark .home-section {
-  background-color: hsla(220, 13%, 18%, 1);
+  background-color: hsla(216, 13%, 15%, 1);
 }
 
 .dark .home-section:nth-of-type(even) {
