@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jakub Kovac</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jakubkovac.github.io/</link>
+      <atom:link href="https://jakubkovac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jakub Kovac</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jakubkovac.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jakub Kovac</title>
-      <link>/</link>
+      <link>https://jakubkovac.github.io/</link>
     </image>
     
     <item>
       <title>Hello Me (and the world)</title>
-      <link>/post/hello-world/</link>
+      <link>https://jakubkovac.github.io/post/hello-world/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/post/hello-world/</guid>
+      <guid>https://jakubkovac.github.io/post/hello-world/</guid>
       <description>
 
 
