@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jakubkovac.github.io/post/hello-world/</loc>
+    <loc>/post/hello-world/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/authors/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/publication/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/talk/</loc>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>https://jakubkovac.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
