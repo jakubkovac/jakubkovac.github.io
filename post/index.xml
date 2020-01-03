@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jakub Kovac</title>
+    <title>Posts | Jakub Kovac</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Jakub Kovac</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
     
     <item>
       <title>Hello Me (and the world)</title>
       <link>/post/hello-world/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>/post/hello-world/</guid>
-      <description>If you are reading this, you are probably future me. If you’re not, feel free to stay anyway, but this blog serves mostly as a reference for things I’m currently working at. Well, not really. If I’m writing this I have probably spent a lot of time either thinking about it, or actually doing all the work before writing this up.</description>
+      <description>
+
+
+&lt;p&gt;If you are reading this, you are probably future me. If you’re not, feel free to stay anyway, but this blog serves mostly as a reference for things I’m currently working at. Well, not really. If I’m writing this I have probably spent a lot of time either thinking about it, or actually doing all the work before writing this up.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
